@@ -1,8 +1,5 @@
 //Practical : 3- Write a C program to take temperature from the user 
 //in Fahrenheit and display the temperature in Celsius.
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
 
 #include<stdio.h>
 void main()
