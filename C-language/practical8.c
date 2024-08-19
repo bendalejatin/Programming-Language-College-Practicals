@@ -1,8 +1,5 @@
 //Practical : 8- Write a C program to read numbers from 1 to 7 and 
 //print respective day of the week to the user.
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
 
 #include<stdio.h>
 void main()
