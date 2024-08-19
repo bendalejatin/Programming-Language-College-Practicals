@@ -1,8 +1,5 @@
 //Practical : 12- Write a program that defines a function to add 
 //first N numbers. The value of N is to be entered by the user.
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
 
 #include<stdio.h>
 
