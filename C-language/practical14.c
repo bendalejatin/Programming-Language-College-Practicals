@@ -1,6 +1,5 @@
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
+//Practical : 14- Create a function that scan a character string passed as an argument and
+// convert all lowercase character into their uppercase equivalents.
 
 #include <stdio.h>
 #include<string.h>
