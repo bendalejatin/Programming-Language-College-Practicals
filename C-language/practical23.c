@@ -1,6 +1,5 @@
-// Enrollment No: 202203103510038
-// Name : Jatin Bendale
-// Branch : B.Tech. Computer Science and Engineering
+//Practical : 23- Write a C program to print the address of character and the character of
+// string using pointer.
 
 #include<stdio.h>
 
