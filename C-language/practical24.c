@@ -1,6 +1,4 @@
-// Enrollment No: 202203103510038
-// Name : Jatin Bendale
-// Branch : B.Tech. Computer Science and Engineering
+//Practical : 24- Write a C program to perform sorting using a pointer.
 
 #include <stdio.h>
 int main()
