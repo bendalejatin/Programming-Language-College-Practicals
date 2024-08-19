@@ -1,6 +1,4 @@
-// Enrollment No: 202203103510038
-// Name : Jatin Bendale
-// Branch : B.Tech. Computer Science and Engineering
+//Practical : 21- Write a C program to print the address of a variable using a pointer.
 
 #include<stdio.h>
 
