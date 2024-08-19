@@ -1,8 +1,5 @@
 //Practical : 17- Write a program to perform various string operations 
 //on user entered string.
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
 
 #include<stdio.h>
 #include<string.h>
