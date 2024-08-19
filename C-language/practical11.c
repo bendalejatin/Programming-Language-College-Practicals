@@ -1,4 +1,4 @@
-//Practical : 10-  Write a program to print following patterns:
+//Practical : 11-  Write a program to print following patterns:
 // 1
 // 12
 // 123
