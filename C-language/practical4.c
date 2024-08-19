@@ -1,6 +1,6 @@
-// Enrollment No: 202203103510038
-// Name : Jatin Bendale
-// Branch : B.Tech. Computer Science and Engineering
+//Practical : 4- Write a C program to take inputs of Day, Date, Month and Year from
+//the user and modify it in such a way that prints the month name given
+//the month number by the user.
 
 #include <stdio.h>
 int main()
