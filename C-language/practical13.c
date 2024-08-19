@@ -1,9 +1,6 @@
 //Practical : 13- Write a user defined function with a name swap() to 
 //interchange the values of two variables, say x and y. Call your swap() 
 //function from the main() function.
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
 
 #include<stdio.h>
 void swap(int x ,int y)
