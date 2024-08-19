@@ -1,9 +1,6 @@
 //Practical : 7- Write a program to read student’s total marks as 
 //input and program should display equivalent grade according 
 //to following table:
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
 
 #include<stdio.h>
 void main()
