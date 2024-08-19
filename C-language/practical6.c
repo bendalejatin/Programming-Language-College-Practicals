@@ -1,8 +1,5 @@
 //Practical : 6- Write a C program to take the birth date as an 
 //input and prints the current age of the user.
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
 
 #include <stdio.h>
 void main()
