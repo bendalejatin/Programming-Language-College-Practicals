@@ -1,0 +1,33 @@
+//Practical : 7- Write a program to read student’s total marks as 
+//input and program should display equivalent grade according 
+//to following table:
+//Enrollment No: 202203103510038
+//Name : Jatin Bendale
+//Branch : B.Tech. Computer Science and Engineering
+
+#include<stdio.h>
+void main()
+{
+    int marks;
+
+    printf("Enter your Total marks:");
+    scanf("%d",&marks);
+
+    if(marks<=100 && marks>=80)
+    {
+        printf("You got Distinction.\n");
+    }
+    else if(marks<=79 && marks>=60)
+    {
+        printf("You got First Class.\n");
+    }
+    else if(marks<=59 && marks>=40)
+    {
+        printf("You got Second Class.\n");
+    }
+    else
+    {
+        printf("Fail\n");
+    }
+
+}
