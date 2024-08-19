@@ -1,9 +1,6 @@
 //Practical : 2- Write a program to calculate the area of the circle and 
 //volume of the cylinder. Use A = pi * r*r, V=pi * r*r*h.
 //Use PI as a symbolic constant.
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
 
 #include <stdio.h>
 #define PI 3.14
