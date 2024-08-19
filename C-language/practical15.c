@@ -1,9 +1,6 @@
 //Practical : 15- Write a C program to read and store the roll no and 
 //marks of twenty students using an array. Display the same array to 
 //user in appropriate format.
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
 
 #include <stdio.h>
 void main()
