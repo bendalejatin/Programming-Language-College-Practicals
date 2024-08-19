@@ -1,6 +1,4 @@
-// Enrollment No: 202203103510038
-// Name : Jatin Bendale
-// Branch : B.Tech. Computer Science and Engineering
+//Practical : 22- Write a C program to swap the two values using pointers.
 
 #include<stdio.h>
 void swap(int *x ,int *y)
