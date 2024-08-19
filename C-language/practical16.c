@@ -1,6 +1,5 @@
-// Enrollment No: 202203103510038
-// Name : Jatin Bendale
-// Branch : B.Tech. Computer Science and Engineering
+//Practical : 16- Write a program to sort given array in ascending order using Bubble
+// sort and Selection sort. 
 
 // Selection sort
 #include <stdio.h>
