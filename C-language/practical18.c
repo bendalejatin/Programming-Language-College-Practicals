@@ -1,6 +1,6 @@
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
+//Practical : 18- Define a structure type structpersonthat containsperson_name,
+// date_of_joiningandsalary. Write a code to read thisinformation from the
+// user and print the same.
 
 #include<stdio.h>
 #include<string.h>
