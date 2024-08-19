@@ -1,8 +1,5 @@
 //Practical : 10- Write a program to find out the sum of the first 
 //and last digit of a user entered number.
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
 
 #include<stdio.h>
 void main()
