@@ -1,6 +1,8 @@
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
+//Practical : 19- Define a structure calledcricketthat will describethe following information:
+// Player_name, Team_name, andBatting_average.  Usingstrcture, declare
+// an array player[ ] with 50 elements and write a C code to read the
+// information about 5 players and print a team wise list containing names
+// of players with their batting average.
 
 #include<stdio.h>
 
