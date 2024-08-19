@@ -1,6 +1,27 @@
-//Enrollment No: 202203103510038
-//Name : Jatin Bendale
-//Branch : B.Tech. Computer Science and Engineering
+//Practical : 10-  Write a program to print following patterns:
+// 1
+// 12
+// 123
+// 1234
+// 12345
+//
+//     *
+//    * *
+//   * * *
+//  * * * *
+// * * * * *
+//
+// * * * * *
+//  * * * *
+//   * * *
+//    * *
+//     *
+//
+// ABCDE
+// ABCD
+// ABC
+// AB
+// A
 
 #include<stdio.h>
 void main()
