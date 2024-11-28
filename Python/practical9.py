@@ -1,5 +1,31 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 9- Write a python program to display above patterns.
+#Pattern 1
+# 1
+# 1 2
+# 1 2 3
+# 1 2 3 4
+# 1 2 3 4 5
+
+#Pattern 2
+# 1
+# 2 3
+# 4 5 6
+# 7 8 9 10
+# 11 12 13 14 15
+
+#Pattern 3
+#     *
+#    * *
+#   * * *
+#  * * * *
+# * * * * *
+
+#Pattern 4
+# A
+# B B
+# C C C
+# D D D D
+# E E E E E
 
 #Pattern 1
 print("Pattern 1:")
