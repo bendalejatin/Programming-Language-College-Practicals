@@ -1,5 +1,9 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 7- Write a python program to demonstrate the creation of a Dictionary student with 
+# the name, age and branch of a student.
+# I. Demonstrate the updation of python dictionary.
+# II. Demonstrate the removal of elements from the python dictionary.
+# III. Demonstrate the use of following dictionary methods - clear(), copy(), get(), items(), 
+#  keys(), popitem(), and values(), len() and sorted().
 
 #Dictionary student with the name, age and branch of a student
 student={
