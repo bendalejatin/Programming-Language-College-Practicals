@@ -1,5 +1,7 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 8- Write a python program to demonstrate the use of 
+# i.if-else:- Python program to check whether the string is Symmetrical or Palindrome
+# ii.for() - Program to multiply two matrices using nested loops.
+# iii. while() :-
 
 #if-else:- Python program to check whether the string is Symmetrical or Palindrome
 #Python program to check whether the string is Symmetrical
@@ -81,7 +83,7 @@ for r in result:
     print(r)
 print()
 
-#reverse of a string
+#Python program to reverse of a string using the while() loop
 string=input("Enter a string: ")
 l=len(string)
 i=string
