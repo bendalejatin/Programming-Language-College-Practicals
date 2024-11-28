@@ -1,5 +1,5 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 6- Write a python program to demonstrate the creation of set along with its methods : 
+# add(),clear(),copy(),difference(),intersection(),union(),isdisjoint,issubset,issuperset()
 
 #sets
 a={1,2,3,4,5,"abc"}
