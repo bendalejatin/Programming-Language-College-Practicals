@@ -1,5 +1,5 @@
 #Practical : 3- Demonstrate the use of basic string methods in python -   lower(), islower(), 
-#upper(), isupper(), join(), split(), find(), replace(), capitalize(), casefold(), and replace().
+# upper(), isupper(), join(), split(), find(), replace(), capitalize(), casefold(), and replace().
 
 #string
 s='Abc'
