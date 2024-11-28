@@ -1,5 +1,5 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 3- Demonstrate the use of basic string methods in python -   lower(), islower(), 
+#upper(), isupper(), join(), split(), find(), replace(), capitalize(), casefold(), and replace().
 
 #string
 s='Abc'
