@@ -1,5 +1,10 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 4-  Write a python program to demonstrate the creation of List data structure along 
+# with its methods - append (), extend(), insert(), remove(), clear(), index(), count(), sort(), 
+# reverse(), and copy(),pop(),insert(),min(),max().
+# I. Demonstrate positive and negative indexing with python List.
+# II. Demonstrate slicing operations on python List.
+# III. Demonstrate updation on List elements in python.
+# IV. Demonstrate deletion of a single python list element and multiple elements using slicing operator.
 
 #lists
 x=[1,2,3]
