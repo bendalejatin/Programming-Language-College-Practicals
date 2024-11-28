@@ -1,4 +1,4 @@
-#Practical : 4-  Write a python program to demonstrate the creation of List data structure along 
+#Practical : 4- Write a python program to demonstrate the creation of List data structure along 
 # with its methods - append (), extend(), insert(), remove(), clear(), index(), count(), sort(), 
 # reverse(), and copy(),pop(),insert(),min(),max().
 # I. Demonstrate positive and negative indexing with python List.
