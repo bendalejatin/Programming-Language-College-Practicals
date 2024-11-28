@@ -1,5 +1,7 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 5- Write a python program to demonstrate the creation of tuples along with its 
+# methods - count () and index ().
+# I. Demonstrate positive and negative indexing with python Tuple.
+# II. Demonstrate slicing operations on python Tuple.
 
 #tuple creation from list and string
 a = [1,2,3,4,5,6,7,8]
