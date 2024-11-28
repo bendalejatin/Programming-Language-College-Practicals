@@ -1,5 +1,5 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 2- Write a python program to implement basic assignment, arithmetic, logical, 
+#relational ,bitwise, comparison, Identity, and Membership operations on user entered numbers.
 
 #Assignment operations
 print("###Assignment operations###")
