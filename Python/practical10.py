@@ -1,5 +1,5 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 10- Write a python program to demonstrate the use of user-defined functions with single, 
+# multiple and arbitrary arguments.WAP to design simple calculator
 
 # returns sum of a and b
 def Add(a, b):
