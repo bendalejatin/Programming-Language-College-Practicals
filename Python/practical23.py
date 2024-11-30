@@ -1,5 +1,4 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 23- Write a python program for web scrapping with BeautifulSoup Library
 
 import requests
 from bs4 import BeautifulSoup
