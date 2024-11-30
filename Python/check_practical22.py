@@ -1,5 +1,4 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 22- Write a python program that import different packages.
 
 class student:
     def __init__(self, name, branch):
