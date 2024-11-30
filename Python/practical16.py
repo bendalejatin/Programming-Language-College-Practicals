@@ -1,5 +1,4 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 16- Write a python program to demonstrate the use of data hiding.
 
 #class datahandling
 class DataHiding:
