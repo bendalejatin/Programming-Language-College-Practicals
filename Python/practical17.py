@@ -1,5 +1,6 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 17-  I. Write a python program to demonstrate the use of try-catch block for exception handling.
+# II.Write a python program to raise an exception with the python raise keyword
+# III.Write a python program to demonstrate the try-finally block.
 
 #Write a python program to demonstrate the use of try-catch block for exception handling.
 
