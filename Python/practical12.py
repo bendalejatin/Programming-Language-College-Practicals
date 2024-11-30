@@ -1,5 +1,39 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 12-  (Write a python program to show the need of inheritance and encapsulation)
+#  Create a base class named university with its attributes - name, year_of_estd, and 
+# city. Derive following class from the super class university: professor, 
+# lab_assistant, office_assistant, and peon. Make the program choice based on the 
+# user. The attributes and method of various class are as below: - 
+
+# Attributes of professor class: designation, highest_qualification, 
+# area_of_research, year_of_joining, year_of_ experience, and name_of_institute. 
+
+# Methods of professor class: __init__() method that gets invoked upon 
+# instantiation and takes values of class attributes. The display() method that prints 
+# class attribute values along with attributes of its super class. 
+
+# Attributes of lab_assistant class: designation = “Lab Assistant” (static), 
+# highest_qualification, additiobnal_skilss, year_of_joining, and name_of_institue. 
+# 04/04/2022 
+
+# Methods of lab_assistant class: __init__() method that gets invoked 
+# upon instantiation and takes values of class attributes. The display() method that 
+# prints class attribute values along with attributes of its super class. 
+
+# Attributes of office_assistant class: designation = “Office Assistant” (static), 
+# highest_qualification, year_of_joining, and name_of_institute. 
+
+# Methods of office_assistant class: __init__() method that gets invoked upon instantiation 
+# and takes values of class attributes. The display() method that prints class attribute 
+# values along with attributes of its super class. 
+
+# Attributes of peon class: job_role = “office Peon” (static), qualification, 
+# year_of_joining, and name_of_institute. 
+# Methods of peon class: __init__() 
+# method that gets invoked upon instantiation and takes values of class attributes. 
+
+# The display() method that prints class attribute values along with attributes of its 
+# super class.
+
 
 #class University
 class University:
