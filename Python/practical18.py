@@ -1,5 +1,4 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 18- Write a python program to demonstrate various regular expressions.
 
 #Write a python program to demonstrate various regular expressions.
 import re
