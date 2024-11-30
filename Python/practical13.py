@@ -1,5 +1,6 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 13- Write a python program to create a class named area. Define a class method 
+# find_area() that can find areas of different shapes whose value is given by the 
+# user. Invoke the class method by instantiation and prove method overloading.
 
 #class Area  
 class Area :
