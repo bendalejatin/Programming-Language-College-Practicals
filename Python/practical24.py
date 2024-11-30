@@ -1,5 +1,4 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 24-  To study about the selenium library. 
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -18,6 +17,6 @@ x.click()
 
 browser.get("https://accounts.google.com")
 e_mail = browser.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[2]/div/c-wiz/div/div[2]/div/div[1]/div/form/span/section/div/div/div[1]/div/div[1]/div/div[1]/input")
-e_mail.send_keys("vishvajit.bakrola@utu.ac.in")
+e_mail.send_keys("bendalejatin35@gmail.com")
 next = browser.find_element(By.XPATH, "/html/body/div[1]/div[1]/div[2]/div/c-wiz/div/div[2]/div/div[2]/div/div[1]/div/div/button/span").click()
 
