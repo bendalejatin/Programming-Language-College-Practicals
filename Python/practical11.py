@@ -1,5 +1,8 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 11- Create a class named employee having attributes - emp_name, emp_age, and 
+# emp_city. Create a method named get_data() in employee class that takes user 
+# input for these attributes. Derive a class named emp_derived() from the employee 
+# class, having an __init__() method that displays the attributes of the employee 
+# class upon instantiation.
 
 #class emoloyee
 class employee(): 
