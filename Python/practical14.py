@@ -1,5 +1,4 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 14- Write a python program to demonstrate the use of method overriding.
 
 #class vehicle
 class Vehicle:
