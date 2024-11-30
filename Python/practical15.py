@@ -1,5 +1,4 @@
-#Name: Jatin Bendale
-#Enrollment Number: 202203103510038
+#Practical : 15- Write a python program to perform basic matrix operations on user entered matrices.
 
 # matrix multiplication function
 def matrix_multiply(a, b):
