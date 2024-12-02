@@ -3,12 +3,7 @@
                 abstract class and override this area() in these three subclasses 
                 to calculate for specific object i.e. area() of Triangle subclass 
                 should calculate area of triangle etc. Same for Rectangle and Circle.
-
-Name: Jatin Bendale
-Enrollment No.: 202203103510038
-Branch: B.Tech CSE 
 */
-
 // CODE:
 
 abstract class Shape {
