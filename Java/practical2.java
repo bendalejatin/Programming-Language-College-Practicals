@@ -1,9 +1,4 @@
-/*  PRACTICAL-2: Write a program for calculator.
-
-Name: Jatin Bendale
-Enrollment No.: 202203103510038
-Branch: B.Tech CSE 
-*/
+// PRACTICAL-2: Write a program for calculator.
 
 // CODE:
 
