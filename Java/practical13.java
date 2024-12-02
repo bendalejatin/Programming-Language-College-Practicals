@@ -1,10 +1,5 @@
-/*  PRACTICAL-13: Write a program in Java to develop user defined exception for ‘Divide by Zero’ error.
-
-Name: Jatin Bendale
-Enrollment No.: 202203103510038
-Branch: B.Tech CSE 
-*/
-
+//  PRACTICAL-13: Write a program in Java to develop user defined exception for ‘Divide by Zero’ error.
+    
 // CODE:
 
 class DivideByZeroException extends Exception {
