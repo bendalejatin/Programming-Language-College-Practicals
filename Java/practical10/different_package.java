@@ -1,4 +1,11 @@
+/*PRACTICAL-10:Write an application that illustrates method overriding in the same
+               package and different packages.
+*/
+
 // CODE(method overriding in the DIFFERENT PACKAGE):
+
+// different_package is the folder/package in which vehicle and aeroplane folders are created and packages are defined in them.
+// file vehicle.java is in vehicle folder, aeroplane.java is in aeroplane folder and main.java with these two folder are in the folder different_package.
 
 //package vehicle
 package different_package.vehicle;
