@@ -1,11 +1,6 @@
 /*  PRACTICAL-3: Write a program that reads a number in meters, converts it to feet,
                  and displays the result.
-
-Name: Jatin Bendale
-Enrollment No.: 202203103510038
-Branch: B.Tech CSE 
 */
-
 // CODE:
 
 import java.util.Scanner;
