@@ -1,12 +1,11 @@
 /*PRACTICAL-10:Write an application that illustrates method overriding in the same
                package and different packages.
-
-Name: Jatin Bendale
-Enrollment No.: 202203103510038
-Branch: B.Tech CSE 
 */
 
 // CODE(method overriding in the SAME PACKAGE):
+
+// same_package is the folder/package in which vehicle and aeroplane packages are defined.
+// all files vehicle.java, aeroplane.java and main.java are in the same folder same_package.
 
 //package vehicle
 package same_package;
