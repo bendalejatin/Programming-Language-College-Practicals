@@ -1,11 +1,6 @@
 /*  PRACTICAL-8:Write a test program that prompts the user to enter ten numbers,
                 invoke a method to reverse the numbers, display the numbers.
-
-Name: Jatin Bendale
-Enrollment No.: 202203103510038
-Branch: B.Tech CSE 
 */
-
 // CODE:
 
 import java.util.Scanner;
