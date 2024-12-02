@@ -1,11 +1,6 @@
 /*  PRACTICAL-5: Write a program that prompts the user to enter three integers and
                  display the integers in decreasing order.
-
-Name: Jatin Bendale
-Enrollment No.: 202203103510038
-Branch: B.Tech CSE 
 */
-
 // CODE:
 
 import java.util.Scanner;
