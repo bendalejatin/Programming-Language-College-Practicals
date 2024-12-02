@@ -1,11 +1,6 @@
 /*  PRACTICAL-7:Assume a vehicle plate number consists of three uppercase letters
                 followed by four digits. Write a program to generate a plate number.
-
-Name: Jatin Bendale
-Enrollment No.: 202203103510038
-Branch: B.Tech CSE 
 */
-
 // CODE:
 
 public class practical7 {
