@@ -1,9 +1,4 @@
-/*  PRACTICAL-14: Write a program in Java to demonstrate multiple try block and multiple catch exception.
-
-Name: Jatin Bendale
-Enrollment No.: 202203103510038
-Branch: B.Tech CSE 
-*/
+//  PRACTICAL-14: Write a program in Java to demonstrate multiple try block and multiple catch exception.
 
 // CODE:
 
