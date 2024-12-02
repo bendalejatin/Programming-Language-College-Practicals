@@ -1,10 +1,6 @@
 /*practical-12:Write a program in Java to demonstrate implementation of multiple
-inheritance using interfaces.
-
-Name:Jatin Bendale
-Enrollment no.:202203103510038
-Branch:B.tech CSE*/
-
+               inheritance using interfaces.
+*/
 //CODE:
 
 interface face1 {
