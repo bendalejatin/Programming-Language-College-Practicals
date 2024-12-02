@@ -1,11 +1,6 @@
 /*  PRACTICAL-6: Write a program that prompts the user to enter a letter and check
                  whether a letter is a vowel or constant.
-
-Name: Jatin Bendale
-Enrollment No.: 202203103510038
-Branch: B.Tech CSE 
 */
-
 // CODE:
 
 import java.util.Scanner ;
