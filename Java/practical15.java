@@ -1,12 +1,8 @@
 /*practical-15:Write a program that executes two threads. One thread displays
-“Thread1”every 2,000 milliseconds, and the other displays
-“Thread2” every 4,000 milliseconds.Create the threads by
-extending the Thread class.
-
-Name:Jatin Bendale
-Enrollment no.:202203103510038
-Branch:B.tech CSE*/
-
+               “Thread1”every 2,000 milliseconds, and the other displays
+               “Thread2” every 4,000 milliseconds.Create the threads by
+               extending the Thread class.
+*/
 //CODE:
 
 class Thread1 extends Thread {
